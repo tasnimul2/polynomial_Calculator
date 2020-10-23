@@ -5,6 +5,7 @@
 ### [Source Code (Term Class)](https://github.com/tasnimul2/polynomial_Calculator/blob/master/Term.java)
 ### [Source Code (Utility Class)](https://github.com/tasnimul2/polynomial_Calculator/blob/master/Utility.java)
 
+# DOCUMENTATION: 
 ![](https://i.imgur.com/Bpc2uRc.png)
 ![](https://i.imgur.com/dCAnm6W.png)
 ![](https://i.imgur.com/6kIxxeq.png)
