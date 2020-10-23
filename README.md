@@ -1,6 +1,29 @@
 ![](https://i.imgur.com/Bpc2uRc.png)
-
+![](https://i.imgur.com/dCAnm6W.png)
+![](https://i.imgur.com/6kIxxeq.png)
+![](https://i.imgur.com/jRzRIys.png)
+![](https://i.imgur.com/8lEeZOC.png)
 ![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
+
 
 Chowdhury Mohammed || Project 1 Phase 2:  Arithmetic  Operation|| Fall 2020 Version 2
 
