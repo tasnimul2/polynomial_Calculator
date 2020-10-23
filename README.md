@@ -1,3 +1,10 @@
+### [Source Code (Main Method)](https://github.com/tasnimul2/polynomial_Calculator/blob/master/Polynomial.java)
+### [Source Code (AbstractPolynomail class)](https://github.com/tasnimul2/polynomial_Calculator/blob/master/AbstractPolynomial.java)
+### [Source Code (Double Linked List class )](https://github.com/tasnimul2/polynomial_Calculator/blob/master/DList.java)
+### [Source Code (Node Class)](https://github.com/tasnimul2/polynomial_Calculator/blob/master/DNode.java)
+### [Source Code (Term Class)](https://github.com/tasnimul2/polynomial_Calculator/blob/master/Term.java)
+### [Source Code (Utility Class)](https://github.com/tasnimul2/polynomial_Calculator/blob/master/Utility.java)
+
 ![](https://i.imgur.com/Bpc2uRc.png)
 ![](https://i.imgur.com/dCAnm6W.png)
 ![](https://i.imgur.com/6kIxxeq.png)
@@ -40,12 +47,5 @@ https://www.youtube.com/watch?v=RhBXtGPrQOE
 
 https://www.youtube.com/watch?v=QlAJAUpG2-M 
 (helped me brush up on polynomial multiplication)
-
-https://www.youtube.com/watch?v=SgLT-A3ZMpA
-(I watched this video like 10 times every time I got stuck in a particular section of the project to fuel the depression )
-
-
-
-
 
 
